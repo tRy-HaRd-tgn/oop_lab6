@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\makarichev_lab6\makarichev_lab6\bin\Debug\makarichev_lab6.exe.config
+C:\Users\User\source\repos\makarichev_lab6\makarichev_lab6\bin\Debug\makarichev_lab6.exe
+C:\Users\User\source\repos\makarichev_lab6\makarichev_lab6\bin\Debug\makarichev_lab6.pdb
+C:\Users\User\source\repos\makarichev_lab6\makarichev_lab6\obj\Debug\makarichev_lab6.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\makarichev_lab6\makarichev_lab6\obj\Debug\makarichev_lab6.Form1.resources
+C:\Users\User\source\repos\makarichev_lab6\makarichev_lab6\obj\Debug\makarichev_lab6.Properties.Resources.resources
+C:\Users\User\source\repos\makarichev_lab6\makarichev_lab6\obj\Debug\makarichev_lab6.csproj.GenerateResource.cache
+C:\Users\User\source\repos\makarichev_lab6\makarichev_lab6\obj\Debug\makarichev_lab6.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\makarichev_lab6\makarichev_lab6\obj\Debug\makarichev_lab6.exe
+C:\Users\User\source\repos\makarichev_lab6\makarichev_lab6\obj\Debug\makarichev_lab6.pdb
